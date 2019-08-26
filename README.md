@@ -1,1 +1,1 @@
-# beta_catenin_article
+# $\Beta$-canenin article
