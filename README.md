@@ -1,1 +1,1 @@
-# $\Beta$-canenin article
+# $\beta$-canenin article
