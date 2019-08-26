@@ -1,3 +1,3 @@
 # Beta-canenin article
 
-# [ ] add link to article
+[ ] add link to article
