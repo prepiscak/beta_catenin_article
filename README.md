@@ -1,4 +1,4 @@
-# $\beta$-catenin signatures
+# &beta-catenin signatures
 
 This repository contains \beta-catenin up and down signatures derived from murine models. 
 
